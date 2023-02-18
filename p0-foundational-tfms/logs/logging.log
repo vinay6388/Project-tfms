@@ -1,0 +1,160 @@
+2023-01-19 23:37:05 INFO  TopicBatchDaoImpl:78 - Which field you want to update
+Press 1: Update TrainerId
+Press 2: Update Topic Name
+Press 3:  Update start Date
+Press 4: Update End Date
+Press 5: Update Duration
+2023-01-19 23:37:20 INFO  TopicBatchDaoImpl:141 - enter the trinee ID
+2023-01-19 23:37:59 INFO  TopicBatchDaoImpl:144 - Enter new EndDate:
+2023-01-19 23:38:26 INFO  TopicBatchDaoImpl:150 - Updated
+2023-01-20 12:26:41 INFO  TopicBatchDaoImpl:65 - enter the trinee ID
+2023-01-20 12:26:53 INFO  TopicBatchDaoImpl:71 - Deleted successfully
+2023-01-20 12:26:53 INFO  TopicBatchDaoImpl:73 - do you want to continue
+2023-01-20 12:26:53 INFO  TopicBatchDaoImpl:74 - press 1: continue
+2023-01-20 12:26:53 INFO  TopicBatchDaoImpl:75 - else press: 2
+2023-01-20 12:31:32 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-01-20 12:31:32 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-01-20 12:31:32 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-01-20 12:32:38 INFO  TopicBatchDaoImpl:41 - do you want to continue
+2023-01-20 12:32:38 INFO  TopicBatchDaoImpl:42 - press 1: continue
+2023-01-20 12:32:38 INFO  TopicBatchDaoImpl:43 - else press: 2
+2023-01-20 12:33:01 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-01-20 12:33:01 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-01-20 12:33:01 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-01-20 16:02:12 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-01-20 16:02:12 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-01-20 16:02:12 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-01-20 16:02:34 INFO  TopicBatchDaoImpl:89 - enter the trinee ID
+2023-01-20 16:02:39 INFO  TopicBatchDaoImpl:95 - Deleted successfully
+2023-01-20 16:02:39 INFO  TopicBatchDaoImpl:97 - do you want to continue
+2023-01-20 16:02:39 INFO  TopicBatchDaoImpl:98 - press 1: continue
+2023-01-20 16:02:39 INFO  TopicBatchDaoImpl:99 - else press: 2
+2023-01-20 16:02:45 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-01-20 16:02:45 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-01-20 16:02:45 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-01-20 18:41:47 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-01-20 18:41:47 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-01-20 18:41:47 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-01-20 18:42:38 INFO  TopicBatchDaoImpl:41 - do you want to continue
+2023-01-20 18:42:38 INFO  TopicBatchDaoImpl:42 - press 1: continue
+2023-01-20 18:42:38 INFO  TopicBatchDaoImpl:43 - else press: 2
+2023-01-20 18:42:52 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-01-20 18:42:52 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-01-20 18:42:52 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-01-20 18:43:25 INFO  TopicBatchDaoImpl:89 - enter the trinee ID
+2023-01-20 18:43:41 INFO  TopicBatchDaoImpl:95 - Deleted successfully
+2023-01-20 18:43:41 INFO  TopicBatchDaoImpl:97 - do you want to continue
+2023-01-20 18:43:41 INFO  TopicBatchDaoImpl:98 - press 1: continue
+2023-01-20 18:43:41 INFO  TopicBatchDaoImpl:99 - else press: 2
+2023-01-20 18:43:53 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-01-20 18:43:53 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-01-20 18:43:53 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-01-20 18:44:07 INFO  TopicBatchDaoImpl:116 - Which field you want to update
+Press 1: Update TrainerId
+Press 2: Update Topic Name
+Press 3:  Update start Date
+Press 4: Update End Date
+Press 5: Update Duration
+2023-01-20 18:44:16 INFO  TopicBatchDaoImpl:141 - enter the trinee ID
+2023-01-20 18:44:27 INFO  TopicBatchDaoImpl:144 - Enter new TopicName:
+2023-01-20 18:44:38 INFO  TopicBatchDaoImpl:150 - Updated
+2023-01-20 18:44:38 INFO  TopicBatchDaoImpl:215 - do you want to continue
+2023-01-20 18:44:38 INFO  TopicBatchDaoImpl:216 - press 1: continue
+2023-01-20 18:44:38 INFO  TopicBatchDaoImpl:217 - else press: 2
+2023-01-20 18:44:50 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-01-20 18:44:50 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-01-20 18:44:50 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-01-23 15:39:22 INFO  TopicBatchDaoImpl:41 - do you want to continue
+2023-01-23 15:39:22 INFO  TopicBatchDaoImpl:42 - press 1: continue
+2023-01-23 15:39:22 INFO  TopicBatchDaoImpl:43 - else press: 2
+2023-01-23 15:39:38 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-01-23 15:39:38 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-01-23 15:39:38 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-01-24 17:25:24 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-01-24 17:25:24 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-01-24 17:25:24 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-01-24 17:26:15 INFO  TopicBatchDaoImpl:41 - do you want to continue
+2023-01-24 17:26:15 INFO  TopicBatchDaoImpl:42 - press 1: continue
+2023-01-24 17:26:15 INFO  TopicBatchDaoImpl:43 - else press: 2
+2023-01-24 17:26:24 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-01-24 17:26:24 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-01-24 17:26:24 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-01-24 17:28:47 INFO  TopicBatchDaoImpl:89 - enter the trinee ID
+2023-01-24 17:28:58 INFO  TopicBatchDaoImpl:95 - Deleted successfully
+2023-01-24 17:28:58 INFO  TopicBatchDaoImpl:97 - do you want to continue
+2023-01-24 17:28:58 INFO  TopicBatchDaoImpl:98 - press 1: continue
+2023-01-24 17:28:58 INFO  TopicBatchDaoImpl:99 - else press: 2
+2023-01-24 17:29:07 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-01-24 17:29:07 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-01-24 17:29:07 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-01-24 17:29:29 INFO  TopicBatchDaoImpl:116 - Which field you want to update
+Press 1: Update TrainerId
+Press 2: Update Topic Name
+Press 3:  Update start Date
+Press 4: Update End Date
+Press 5: Update Duration
+2023-01-24 17:29:37 INFO  TopicBatchDaoImpl:141 - enter the trinee ID
+2023-01-24 17:29:49 INFO  TopicBatchDaoImpl:144 - Enter new TopicName:
+2023-01-24 17:29:57 INFO  TopicBatchDaoImpl:150 - Updated
+2023-01-24 17:29:57 INFO  TopicBatchDaoImpl:215 - do you want to continue
+2023-01-24 17:29:57 INFO  TopicBatchDaoImpl:216 - press 1: continue
+2023-01-24 17:29:57 INFO  TopicBatchDaoImpl:217 - else press: 2
+2023-01-24 17:30:02 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-01-24 17:30:02 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-01-24 17:30:02 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-02-02 17:16:58 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-02-02 17:16:58 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-02-02 17:16:58 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-02-02 17:17:53 INFO  TopicBatchDaoImpl:89 - enter the trinee ID
+2023-02-02 17:18:07 INFO  TopicBatchDaoImpl:95 - Deleted successfully
+2023-02-02 17:18:07 INFO  TopicBatchDaoImpl:97 - do you want to continue
+2023-02-02 17:18:07 INFO  TopicBatchDaoImpl:98 - press 1: continue
+2023-02-02 17:18:07 INFO  TopicBatchDaoImpl:99 - else press: 2
+2023-02-02 17:18:20 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-02-02 17:18:20 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-02-02 17:18:20 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-02-02 17:18:31 INFO  TopicBatchDaoImpl:89 - enter the trinee ID
+2023-02-02 17:18:36 INFO  TopicBatchDaoImpl:95 - Deleted successfully
+2023-02-02 17:18:36 INFO  TopicBatchDaoImpl:97 - do you want to continue
+2023-02-02 17:18:36 INFO  TopicBatchDaoImpl:98 - press 1: continue
+2023-02-02 17:18:36 INFO  TopicBatchDaoImpl:99 - else press: 2
+2023-02-02 17:18:40 INFO  TopicBatchDaoImpl:89 - enter the trinee ID
+2023-02-02 17:18:44 INFO  TopicBatchDaoImpl:95 - Deleted successfully
+2023-02-02 17:18:44 INFO  TopicBatchDaoImpl:97 - do you want to continue
+2023-02-02 17:18:44 INFO  TopicBatchDaoImpl:98 - press 1: continue
+2023-02-02 17:18:44 INFO  TopicBatchDaoImpl:99 - else press: 2
+2023-02-02 17:18:50 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-02-02 17:18:50 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-02-02 17:18:50 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-02-02 17:19:08 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-02-02 17:19:08 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-02-02 17:19:08 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-02-13 14:21:23 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-02-13 14:21:23 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-02-13 14:21:23 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-02-13 14:21:59 INFO  TopicBatchDaoImpl:89 - enter the trinee ID
+2023-02-13 14:22:24 INFO  TopicBatchDaoImpl:95 - Deleted successfully
+2023-02-13 14:22:24 INFO  TopicBatchDaoImpl:97 - do you want to continue
+2023-02-13 14:22:24 INFO  TopicBatchDaoImpl:98 - press 1: continue
+2023-02-13 14:22:24 INFO  TopicBatchDaoImpl:99 - else press: 2
+2023-02-13 14:22:48 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-02-13 14:22:48 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-02-13 14:22:48 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-02-15 12:17:17 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-02-15 12:17:17 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-02-15 12:17:17 INFO  TopicBatchDaoImpl:74 - else press: 2
+2023-02-15 12:17:32 INFO  TopicBatchDaoImpl:116 - Which field you want to update
+Press 1: Update TrainerId
+Press 2: Update Topic Name
+Press 3:  Update start Date
+Press 4: Update End Date
+Press 5: Update Duration
+2023-02-15 12:18:42 INFO  TopicBatchDaoImpl:141 - enter the trinee ID
+2023-02-15 12:18:56 INFO  TopicBatchDaoImpl:144 - Enter new TopicName:
+2023-02-15 12:19:06 INFO  TopicBatchDaoImpl:150 - Updated
+2023-02-15 12:19:06 INFO  TopicBatchDaoImpl:215 - do you want to continue
+2023-02-15 12:19:06 INFO  TopicBatchDaoImpl:216 - press 1: continue
+2023-02-15 12:19:06 INFO  TopicBatchDaoImpl:217 - else press: 2
+2023-02-15 12:19:14 INFO  TopicBatchDaoImpl:72 - do you want to continue
+2023-02-15 12:19:14 INFO  TopicBatchDaoImpl:73 - press 1: continue
+2023-02-15 12:19:14 INFO  TopicBatchDaoImpl:74 - else press: 2
